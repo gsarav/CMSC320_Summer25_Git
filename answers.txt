@@ -7,4 +7,6 @@ Answer: Finance, such as when to sell/buy stocks.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging creates a new commit and preserves history of both branches. Rebase rewrites the history of the sources branch.
+Q4: What are you looking forward to this semester?
 
+Answer: I'm looking forward to my vacation at the end.
